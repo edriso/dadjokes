@@ -53,5 +53,6 @@ export default {
 <style scoped>
 .single-joke h4 {
   margin-top: 0.5rem;
+  color: #444;
 }
 </style>

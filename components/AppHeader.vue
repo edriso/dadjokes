@@ -33,7 +33,7 @@ export default {};
 }
 
 .header .title {
-  font-size: 3rem;
+  font-size: 1.75rem;
   color: #526488;
 }
 
